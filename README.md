@@ -2,7 +2,7 @@
 For capturing data from Keysight oscilliscope and saving to text file.
 
 
-Test_Script: Saves function 1 data
+Test_Script: Saves function 2 data
 
 Test_Script_2Ch: Same as Test_Script but saves function 1 and 2
 
